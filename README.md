@@ -33,8 +33,8 @@ Designed for efficiency with a "Mini Flash Mode" overlay and clipboard automatio
 **Setup:**
 ```bash
 # Clone the repository
-git clone [https://github.com/younglonelyfeel/YLF-Update.git](https://github.com/younglonelyfeel/YLF-Update.git)
-cd YLF-Update
+git clone [https://github.com/younglonelyfeel/YLF-Update.git](https://github.com/younglonelyfeel/YLF_Download.git)
+cd YLF_Download
 
 # Install dependencies
 pip install -r requirements.txt
