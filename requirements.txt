@@ -1,0 +1,6 @@
+customtkinter
+yt-dlp
+tkinterdnd2
+packaging
+requests
+pyinstaller
