@@ -19,10 +19,10 @@ Designed for efficiency with a "Mini Flash Mode" overlay and clipboard automatio
 
 ### For End Users (Windows)
 1. Go to the [Releases Page](../../releases).
-2. Download the latest `YLF_Tool.zip`.
+2. Download the latest `YLF Downloader.zip`.
 3. Extract the archive.
 4. Ensure `ffmpeg.exe` is placed in the root folder.
-5. Run `YLF_Tool.exe`.
+5. Run `YLF Downloader.exe`.
 
 ### For Developers (Build from Source)
 
