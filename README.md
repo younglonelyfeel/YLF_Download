@@ -42,3 +42,11 @@ pip install customtkinter yt-dlp tkinterdnd2
 
 # Run the application
 python main.py
+
+## Configuration
+
+* **Download Path:** Default is `Downloads/YLF-Downloads`.
+* **Cookies:** Place your `cookies.txt` in the root directory for authentication support.
+
+---
+*Developed by @younglonelyfeel*
