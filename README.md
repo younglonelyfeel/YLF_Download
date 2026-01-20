@@ -42,6 +42,7 @@ pip install customtkinter yt-dlp tkinterdnd2
 
 # Run the application
 python main.py
+```
 
 ## Configuration
 
